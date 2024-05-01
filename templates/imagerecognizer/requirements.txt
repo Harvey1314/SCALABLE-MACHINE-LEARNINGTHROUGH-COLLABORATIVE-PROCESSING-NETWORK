@@ -1,0 +1,6 @@
+pycparser==2.22
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
+pandas==2.2.0
+pathlib2
+setproctitle
