@@ -16,6 +16,3 @@ The "Scalable Machine Learning through Collaborative Processing Network" project
 - Required Python packages: `numpy`, `pandas`, `opencv2`
 - Network access between all participating nodes
 
-
-   git clone https://github.com/yourusername/scalable-ml-cpn.git
-   cd scalable-ml-cpn
